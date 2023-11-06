@@ -1,5 +1,5 @@
 import Heading from "components/atoms/heading/Heading";
-import React, { forwardRef } from "react";
+import  { forwardRef } from "react";
 
 export interface HeaderProps {
   title: string;
